@@ -133,7 +133,8 @@ dependencies {
 }
 
 bukkit {
-    name = "GrimAC"
+    // Fork display name only: retain upstream entry point, authorship and permissions.
+    name = "LimitlessAC"
     author = "GrimAC"
     main = "ac.grim.grimac.platform.bukkit.GrimACBukkitLoaderPlugin"
     website = "https://grim.ac/"
